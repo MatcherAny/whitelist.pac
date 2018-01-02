@@ -203,6 +203,17 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"jyimg":1,
+"huomao":1,
+"oneniceapp":1,
+"360":1,
+"qhmsg":1,
+"mogucdn":1,
+"aixifan":1,
+"iblue":1,
+"dnion":1,
+"chinatelecom-ec":1,
+"wangsu":1,
 "webxueyuan":1,
 "liaoxuefeng":1,
 "zybuluo":1,
@@ -9290,6 +9301,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"redyue":1,
 "emacs-china":1,
 "aliapp":1,
 "0513":1,
@@ -9588,6 +9600,7 @@ var white_domains = {
 },"tm":{
 "stone":1
 },"tv":{
+"hifly":1,
 "005":1,
 "0438":1,
 "0916":1,
