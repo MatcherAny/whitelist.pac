@@ -203,6 +203,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"51git":1,
+"soogif":1,
 "sspai":1,
 "mxpnl":1,
 "mixpanel":1,
