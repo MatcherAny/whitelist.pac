@@ -203,6 +203,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"sspai":1,
+"mxpnl":1,
+"mixpanel":1,
 "jyimg":1,
 "huomao":1,
 "oneniceapp":1,
