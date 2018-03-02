@@ -203,6 +203,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"acgvideo":1,
 "yiqioffice":1,
 "yiqixie":1,
 "xuetangx":1,
@@ -9307,6 +9308,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"archlinuxcn":1,
 "redyue":1,
 "emacs-china":1,
 "aliapp":1,
