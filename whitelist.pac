@@ -203,6 +203,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"163yun":1,
 "acgvideo":1,
 "yiqioffice":1,
 "yiqixie":1,
