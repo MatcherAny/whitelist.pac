@@ -203,6 +203,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"wstx":1,
+"smzdm":1,
 "163yun":1,
 "acgvideo":1,
 "yiqioffice":1,
@@ -8381,6 +8383,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"wt-cn01":1,
 "mingsoft":1,
 "mooctest":1,
 "001sj":1,
