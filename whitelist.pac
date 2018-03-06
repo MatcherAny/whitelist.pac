@@ -203,6 +203,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"aliyun":1,
 "wpjam":1,
 "wpweixin":1,
 "mtyun":1,
