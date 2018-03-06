@@ -203,6 +203,13 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"ruanyifeng":1,
+"qcloudcdn":1,
+"win-man":1,
+"weiyun":1,
+"qcloudimg":1,
+"3jia5":1,
+"baidubce":1,
 "aliyun":1,
 "wpjam":1,
 "wpweixin":1,
