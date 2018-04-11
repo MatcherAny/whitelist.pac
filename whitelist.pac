@@ -203,6 +203,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"biddingx":1,
+"stg8":1,
+"biliapi":1,
 "baidupcs":1,
 "ruanyifeng":1,
 "qcloudcdn":1,
@@ -8399,6 +8402,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"sina":1,
 "wt-cn01":1,
 "mingsoft":1,
 "mooctest":1,
