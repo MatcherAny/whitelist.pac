@@ -203,6 +203,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"baidupcs":1,
 "ruanyifeng":1,
 "qcloudcdn":1,
 "win-man":1,
