@@ -205,6 +205,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"faiusr":1,
 "faisys":1,
 "fkw":1,
 "qiyukf":1,
