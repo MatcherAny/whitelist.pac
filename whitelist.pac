@@ -4,7 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-"io":{
+"bz":{
+"icoc":1
+},"io":{
 "xitu":1,
 "jianshu":1,
 },"top":{
