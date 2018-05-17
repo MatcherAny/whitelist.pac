@@ -12,6 +12,7 @@ var white_domains = {
 },"top":{
 "wjx":1,
 },"am":{
+"71":1,
 "126":1,
 "51":1
 },"biz":{
@@ -205,6 +206,12 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"youhaovip":1,
+"ttvdo":1,
+"47ks":1,
+"gm99":1,
+"he2d":1,
+"sdqoi2d":1,
 "faiusr":1,
 "faisys":1,
 "fkw":1,
@@ -8367,6 +8374,7 @@ var white_domains = {
 "takungpao.com":1,
 "xsren":1
 },"im":{
+"cli":1,
 "netease":1,
 "juejin":1,
 "cli":1,
@@ -8409,6 +8417,8 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"88rpg":1,
+"jsdelivr":1,
 "sina":1,
 "wt-cn01":1,
 "mingsoft":1,
