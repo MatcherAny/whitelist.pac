@@ -206,6 +206,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"212ys":1,
+"youle55":1,
 "youhaovip":1,
 "ttvdo":1,
 "47ks":1,
@@ -8417,6 +8419,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"zhanzhang":1,
 "88rpg":1,
 "jsdelivr":1,
 "sina":1,
