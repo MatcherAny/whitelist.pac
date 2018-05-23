@@ -212,6 +212,7 @@ var white_domains = {
 "kaola":1,
 "alipcsec":1,
 "cecdc":1,
+"unagi-cn.amazon.com":1,
 "images-cn.ssl-images-amazon":1,
 "mukewang":1,
 "guokr":1,
