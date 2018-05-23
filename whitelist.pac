@@ -207,6 +207,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"hjapi":1,
+"hubpd":1,
+"jiemian":1,
 "wq96f9":1,
 "000dn":1,
 "videoyi":1,
@@ -9420,6 +9423,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"icourse163":1,
 "archlinuxcn":1,
 "redyue":1,
 "emacs-china":1,
