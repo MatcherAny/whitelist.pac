@@ -6,7 +6,11 @@
 ## 安装插件SwitchyOmega
 ![chrome-1](/img/chrome-1.png)
 ![chrome-2](/img/chrome-2.png)
+
+
 更新的pac地址: https://raw.githubusercontent.com/MatcherAny/whitelist.pac/master/whitelist.pac
+
+
 ![chrome-3](/img/chrome-3.png)
 ![chrome-4](/img/chrome-4.png)
 ![chrome-5](/img/chrome-5.png)
