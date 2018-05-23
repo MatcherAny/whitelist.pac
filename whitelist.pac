@@ -207,6 +207,15 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"guazistatic":1,
+"guazi":1,
+"kaola":1,
+"alipcsec":1,
+"cecdc":1,
+"images-cn.ssl-images-amazon":1,
+"mukewang":1,
+"guokr":1,
+"88cdn":1,
 "hjapi":1,
 "hubpd":1,
 "jiemian":1,
@@ -9423,6 +9432,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"cnmooc":1,
 "icourse163":1,
 "archlinuxcn":1,
 "redyue":1,
