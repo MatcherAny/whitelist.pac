@@ -207,6 +207,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"ksmobile":1,
+"cmcmcdn":1,
 "guazistatic":1,
 "guazi":1,
 "kaola":1,
