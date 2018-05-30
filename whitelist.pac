@@ -211,6 +211,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"myqcloud":1,
+"mokeedev":1,
 "tuchuang001":1,
 "800cdn":1,
 "chimeiju":1,
@@ -8531,6 +8533,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"loli":1,
 "ousns":1,
 "maccms":1,
 "mkv99":1,
