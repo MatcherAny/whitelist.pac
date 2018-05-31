@@ -211,6 +211,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"jobbole":1,
+"jwpcdn":1,
 "antfin":1,
 "programarts":1,
 "leetcode-cn":1,
