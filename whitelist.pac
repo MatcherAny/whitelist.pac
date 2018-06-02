@@ -6,7 +6,12 @@ var ip_proxy = "DIRECT;";
 var white_domains = {
 "bz":{
 "icoc":1
+},"ms":{
+"sm":1,
+},"cx":{
+"sinaimg":1,
 },"io":{
+"loli":1,
 "xitu":1,
 "jianshu":1,
 },"top":{
@@ -42,6 +47,9 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"mtkan":1,
+"dmeo":1,
+"picb":1,
 "ttmj":1,
 "0316":1,
 "0738":1,
@@ -211,6 +219,14 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"ax2x":1,
+"simimg":1,
+"jiantuku":1,
+"ax1x":1,
+"imgchr":1,
+"imgapi":1,
+"gimhoy":1,
+"pic68":1,
 "jobbole":1,
 "jwpcdn":1,
 "antfin":1,
@@ -8482,6 +8498,7 @@ var white_domains = {
 "snai":1,
 "sxrtvu":1
 },"fm":{
+"danmu":1,
 "douban":1,
 "jing":1,
 "lvxing":1
@@ -8538,6 +8555,10 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"xiaojianjian":1,
+"ffsky":1,
+"azurewebsites":1,
+"z4a":1,
 "zzytrj":1,
 "loli":1,
 "ousns":1,
@@ -9482,6 +9503,8 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"tuchuang":1,
+"mouto":1,
 "cnmooc":1,
 "icourse163":1,
 "archlinuxcn":1,
