@@ -15,6 +15,8 @@ var white_domains = {
 "xitu":1,
 "jianshu":1,
 },"top":{
+"1993s":1,
+"kdy666":1,
 "ttmeiju":1,
 "86game":1,
 "z211":1,
@@ -219,6 +221,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"jianguoyun":1,
 "ax2x":1,
 "simimg":1,
 "jiantuku":1,
