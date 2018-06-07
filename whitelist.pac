@@ -211,6 +211,7 @@ var white_domains = {
 "hebei":1,
 "yinshua":1
 },"co":{
+"v2ex":1,
 "meijubie":1,
 "425300":1,
 "banzhu":1,
@@ -221,6 +222,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"maxcdn":1,
+"studygolang":1,
 "jianguoyun":1,
 "ax2x":1,
 "simimg":1,
@@ -9502,6 +9505,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"ruby-china":1,
 "tuchuang":1,
 "mouto":1,
 "cnmooc":1,
