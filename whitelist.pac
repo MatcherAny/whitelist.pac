@@ -222,6 +222,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"soft0595":1,
+"bcebos":1,
 "maxcdn":1,
 "studygolang":1,
 "jianguoyun":1,
