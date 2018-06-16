@@ -223,6 +223,7 @@ var white_domains = {
 "ychdzx":1
 },"com":{
 "soft0595":1,
+"anhuijszp":1,
 "bcebos":1,
 "maxcdn":1,
 "studygolang":1,
