@@ -4,7 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-"bz":{
+"wang":{
+"dilidili":1,
+},"bz":{
 "icoc":1
 },"ms":{
 "sm":1,
@@ -49,6 +51,7 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"xcmh":1,
 "mtkan":1,
 "dmeo":1,
 "picb":1,
@@ -222,6 +225,12 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"dilidili":1,
+"jfrft":1,
+"huanmusic":1,
+"xcmh":1,
+"kan300":1,
+"yylep":1,
 "soft0595":1,
 "anhuijszp":1,
 "bcebos":1,
@@ -8560,6 +8569,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"cibntv":1,
 "xiaojianjian":1,
 "ffsky":1,
 "azurewebsites":1,
@@ -9813,6 +9823,7 @@ var white_domains = {
 },"tm":{
 "stone":1
 },"tv":{
+"hy233":1,
 "zimuzu":1,
 "maoyun":1,
 "fantasy":1,
