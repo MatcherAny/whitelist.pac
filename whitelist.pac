@@ -225,6 +225,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"lmtxz1":1,
 "zhugeio":1,
 "sobot":1,
 "dilidili":1,
@@ -9520,6 +9521,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"laomaotao":1,
 "ruby-china":1,
 "tuchuang":1,
 "mouto":1,
