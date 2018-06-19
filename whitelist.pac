@@ -225,6 +225,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"le":1,
+"lecloud":1,
+"funshion":1,
+"mct01":1,
 "lmtxz1":1,
 "zhugeio":1,
 "sobot":1,
@@ -8572,6 +8576,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"funshion":1,
 "cibntv":1,
 "xiaojianjian":1,
 "ffsky":1,
@@ -9827,6 +9832,7 @@ var white_domains = {
 },"tm":{
 "stone":1
 },"tv":{
+"fun":1,
 "hy233":1,
 "zimuzu":1,
 "maoyun":1,
