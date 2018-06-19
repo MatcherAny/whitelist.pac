@@ -51,6 +51,7 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"jianbihua":1,
 "xcmh":1,
 "mtkan":1,
 "dmeo":1,
@@ -225,6 +226,15 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"bfdcdn":1,
+"juancdn":1,
+"yangkeduo":1,
+"pinduoduo":1,
+"n0808":1,
+"tiebaimg":1,
+"kukan5":1,
+"meijutt":1,
+"vmallres":1,
 "le":1,
 "lecloud":1,
 "funshion":1,
