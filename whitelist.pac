@@ -4,7 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-"wang":{
+"download":{
+"sudamod":1,
+},"wang":{
 "dilidili":1,
 },"bz":{
 "icoc":1
@@ -8586,6 +8588,8 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"clewm":1,
+"baizhan":1,
 "funshion":1,
 "cibntv":1,
 "xiaojianjian":1,
