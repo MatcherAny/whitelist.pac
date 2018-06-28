@@ -228,6 +228,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"hiwifi":1,
+"histatic":1,
 "bfdcdn":1,
 "juancdn":1,
 "yangkeduo":1,
