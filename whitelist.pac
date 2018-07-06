@@ -53,6 +53,7 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"dysfz":1,
 "jianbihua":1,
 "xcmh":1,
 "mtkan":1,
