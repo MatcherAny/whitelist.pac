@@ -230,6 +230,7 @@ var white_domains = {
 "ychdzx":1
 },"com":{
 "4006024680":1,
+"baidupan":1,
 "lanzou":1,
 "qtmojo":1,
 "iplaysoft":1,
