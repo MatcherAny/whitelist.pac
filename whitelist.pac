@@ -229,6 +229,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"4006024680":1,
+"lanzou":1,
 "qtmojo":1,
 "iplaysoft":1,
 "nanshansi123":1,
