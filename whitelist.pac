@@ -229,6 +229,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"sigma-rt":1,
 "4006024680":1,
 "baidupan":1,
 "lanzou":1,
