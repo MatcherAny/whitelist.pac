@@ -229,6 +229,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"atianqi":1,
 "phoenixos":1,
 "wenduedu":1,
 "wendu":1,
