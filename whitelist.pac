@@ -8622,6 +8622,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"mcbbs":1,
 "baofeng":1,
 "qy":1,
 "cnky":1,
