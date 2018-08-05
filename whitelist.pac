@@ -229,6 +229,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"shandagames":1,
+"sdoprofile":1,
+"bfimg":1,
+"lanzous":1,
 "applysquare":1,
 "yantubao":1,
 "24en":1,
@@ -8618,6 +8622,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"baofeng":1,
 "qy":1,
 "cnky":1,
 "uxengine":1,
