@@ -15,6 +15,8 @@ var white_domains = {
 },"cx":{
 "sinaimg":1,
 },"io":{
+"c0m":1,
+"quanben":1,
 "loli":1,
 "xitu":1,
 "jianshu":1,
@@ -229,6 +231,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"cfboo",
+"yuewen",
+"genshuixue",
+"cskaoyan",
 "shandagames":1,
 "sdoprofile":1,
 "bfimg":1,
