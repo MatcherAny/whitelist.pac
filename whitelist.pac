@@ -231,10 +231,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
-"cfboo",
-"yuewen",
-"genshuixue",
-"cskaoyan",
+"cfboo":1,
+"yuewen":1,
+"genshuixue":1,
+"cskaoyan":1,
 "shandagames":1,
 "sdoprofile":1,
 "bfimg":1,
