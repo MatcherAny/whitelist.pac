@@ -231,6 +231,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"orangevip":1,
+"baijiayun":1,
 "xmcdn":1,
 "steamcn":1,
 "cfboo":1,
