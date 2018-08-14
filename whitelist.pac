@@ -231,6 +231,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"easemob":1,
 "orangevip":1,
 "baijiayun":1,
 "xmcdn":1,
