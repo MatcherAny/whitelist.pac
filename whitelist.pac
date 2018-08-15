@@ -4,7 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-"download":{
+"one":{
+"zym":1
+},"download":{
 "sudamod":1,
 },"wang":{
 "dilidili":1,
@@ -231,6 +233,14 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"ziyuanmao":1,
+"shipinyu":1,
+"youquhome":1,
+"xilinjie":1,
+"hnbcdn":1,
+"699pic":1,
+"veer":1,
+"chongbuluo":1,
 "easemob":1,
 "orangevip":1,
 "baijiayun":1,
@@ -8633,6 +8643,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"ascii2d":1,
 "mcbbs":1,
 "baofeng":1,
 "qy":1,
@@ -9590,6 +9601,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"ziyuanmao":1,
 "laomaotao":1,
 "ruby-china":1,
 "tuchuang":1,
