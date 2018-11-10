@@ -4,7 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-"one":{
+"wiki":{
+"huiji":1
+},"one":{
 "zym":1
 },"download":{
 "sudamod":1,
@@ -233,6 +235,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"huijiwiki":1,
+"huijidata":1,
+"huijistatic":1,
 "cnbetacdn":1,
 "chouti":1,
 "ziyuanmao":1,
