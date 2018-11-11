@@ -235,6 +235,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"lightonus":1,
+"myalicdn":1,
+"ipanda":1,
+"livechina":1,
 "huijiwiki":1,
 "huijidata":1,
 "huijistatic":1,
