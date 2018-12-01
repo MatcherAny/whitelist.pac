@@ -9708,6 +9708,7 @@ var white_domains = {
 "cnsb":1,
 "cocos2d-x":1,
 "cottonchina":1,
+"coursera":1,
 "cq315":1,
 "cqgh":1,
 "cqzx":1,
