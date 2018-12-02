@@ -235,6 +235,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"uiiiuiii":1,
+"gaoding":1,
+"dancf":1,
+"wenzaizhibo":1,
 "lightonus":1,
 "myalicdn":1,
 "ipanda":1,
