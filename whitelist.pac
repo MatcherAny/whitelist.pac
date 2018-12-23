@@ -235,6 +235,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"autonavi":1,
+"vzuu":1,
 "uiiiuiii":1,
 "gaoding":1,
 "dancf":1,
@@ -8658,6 +8660,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"126":1,
 "ascii2d":1,
 "mcbbs":1,
 "baofeng":1,
