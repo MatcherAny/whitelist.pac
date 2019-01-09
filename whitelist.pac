@@ -237,6 +237,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"nocang":1,
+"daoyu8":1,
 "kwai":1,
 "yunaq":1,
 "soupingguo":1,
