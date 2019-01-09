@@ -4,7 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-"wiki":{
+"ai":{
+"deepvision":1
+},"wiki":{
 "huiji":1
 },"one":{
 "zym":1
@@ -238,6 +240,50 @@ var white_domains = {
 "baoshifu":1,
 "autonavi":1,
 "vzuu":1,
+"nocang":1,
+"daoyu8":1,
+"kwai":1,
+"yunaq":1,
+"soupingguo":1,
+"showstart":1,
+"taihe":1,
+"oneapm":1,
+"lecloud":1,
+"kf5":1,
+"minapp":1,
+"4paradigm":1,
+"coolbuy":1,
+"ifanrusercontent":1,
+"ifanr":1,
+"yximgs":1,
+"kuaishou":1,
+"freehao123":1,
+"elemecdn":1,
+"snssdk":1,
+"douyin":1,
+"cppblog":1,
+"cnitblog":1,
+"bjcathay":1,
+"upyun":1,
+"qiniuapi":1,
+"69xiu":1,
+"nextjoy":1,
+"fengkongcloud":1,
+"9xiu":1,
+"xfaike":1,
+"elearnmooc":1,
+"fifedu":1,
+"zhinikefu":1,
+"wykefu":1,
+"eyeofcloud":1,
+"gamebar":1,
+"wangyuan":1,
+"geetest":1,
+"yongjiuma":1,
+"gulugj":1,
+"rpwow":1,
+"mikaoshi":1,
+"51kaozi":1,
 "uiiiuiii":1,
 "gaoding":1,
 "dancf":1,
@@ -8647,6 +8693,7 @@ var white_domains = {
 "qzone":1,
 "ulinix":1
 },"me":{
+"ele":1,
 "diaodiaode":1,
 "qbox":1,
 "21me":1,
@@ -8662,6 +8709,8 @@ var white_domains = {
 "i1515":1
 },"net":{
 "126":1,
+"coding":1,
+"blogjava":1,
 "ascii2d":1,
 "mcbbs":1,
 "baofeng":1,
@@ -9620,6 +9669,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"pigai":1,
 "ziyuanmao":1,
 "laomaotao":1,
 "ruby-china":1,
