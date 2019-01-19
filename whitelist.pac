@@ -7039,6 +7039,7 @@ var white_domains = {
 "tiantian":1,
 "tianxia70":1,
 "tianyablog":1,
+"tianyancha":1,
 "tianyaui":1,
 "tianyuimg":1,
 "tiaohao":1,
