@@ -237,6 +237,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"msftconnecttest":1,
 "qydatatech":1,
 "baoshifu":1,
 "autonavi":1,
