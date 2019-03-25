@@ -241,6 +241,7 @@ var white_domains = {
 "baoshifu":1,
 "autonavi":1,
 "vzuu":1,
+"lovecia":1,
 "nocang":1,
 "daoyu8":1,
 "kwai":1,
