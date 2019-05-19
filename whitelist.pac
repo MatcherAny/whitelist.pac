@@ -237,6 +237,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"chongdiantou":1,
 "taoqueqiao":1,
 "hzmetro":1,
 "szairport":1,
