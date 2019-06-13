@@ -237,6 +237,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"pfcexpress":1,
 "tianxun":1,
 "chongdiantou":1,
 "taoqueqiao":1,
