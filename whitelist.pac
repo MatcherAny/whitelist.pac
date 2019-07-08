@@ -237,6 +237,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"dxmstatic":1,
 "90pan":1,
 "woozooo":1,
 "gvt1":1,
