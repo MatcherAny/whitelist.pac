@@ -244,6 +244,7 @@ var white_domains = {
 "chongdiantou":1,
 "taoqueqiao":1,
 "hzmetro":1,
+"baiyunairport":1,
 "szairport":1,
 "hzairport":1,
 "cdairport":1,
