@@ -254,6 +254,7 @@ var white_domains = {
 "baoshifu":1,
 "autonavi":1,
 "vzuu":1,
+"dxmstatic":1,
 "90pan":1,
 "woozooo":1,
 "gvt1":1,
