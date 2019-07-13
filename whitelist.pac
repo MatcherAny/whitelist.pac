@@ -237,6 +237,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"linkstars":1,
 "flyertea":1,
 "95095":1,
 "liangxinyao":1,
