@@ -4,7 +4,13 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
-"ai":{
+"asia":{
+"moecloud":1
+},"lol":{
+"bilibili":1
+},"app":{
+"wemp":1
+},"ai":{
 "deepvision":1
 },"wiki":{
 "huiji":1
@@ -237,6 +243,12 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"iqiyi-yongjiu":1,
+"gzspeedtest":1,
+"91wii":1,
+"pokoudai":1,
+"hadsky":1,
+"dogyun":1,
 "dxmstatic":1,
 "90pan":1,
 "woozooo":1,
@@ -8672,6 +8684,7 @@ var white_domains = {
 "takungpao.com":1,
 "xsren":1
 },"im":{
+"shimo":1,
 "cli":1,
 "netease":1,
 "juejin":1,
@@ -8717,6 +8730,8 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"ooklaserver":1,
+"xxgame":1,
 "coding":1,
 "blogjava":1,
 "ascii2d":1,
