@@ -243,6 +243,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"msstatic":1,
+"huya":1,
+"bilivideo":1,
 "iqiyi-yongjiu":1,
 "gzspeedtest":1,
 "91wii":1,
@@ -8730,6 +8733,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"biliapi":1,
 "ooklaserver":1,
 "xxgame":1,
 "coding":1,
