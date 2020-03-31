@@ -243,6 +243,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"dugulingping":1,
 "msstatic":1,
 "huya":1,
 "bilivideo":1,
@@ -8733,6 +8734,9 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"icyuyan":1,
+"bitbear":1,
+"rkidc":1,
 "biliapi":1,
 "ooklaserver":1,
 "xxgame":1,
@@ -9696,6 +9700,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"03k":1,
 "pigai":1,
 "ziyuanmao":1,
 "laomaotao":1,
@@ -10057,6 +10062,9 @@ var white_domains = {
 },"tw":{
 "hexun.com":1,
 "taiwandao":1
+},"world":{
+"tis":1,
+"xplus":1
 },"us":{
 "pangu":1
 },"ws":{
