@@ -243,6 +243,17 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"gifshow":1,
+"ksapisrv":1,
+"miaopai":1,
+"yizhibo":1,
+"360tpcdn":1,
+"tbcache":1,
+"douyuscdn":1,
+"lgstatic":1,
+"360kuai":1,
+"vpsyc":1,
+"nzwgs":1,
 "msstatic":1,
 "huya":1,
 "bilivideo":1,
@@ -10004,6 +10015,7 @@ var white_domains = {
 },"tm":{
 "stone":1
 },"tv":{
+"xiaoka":1,
 "fun":1,
 "hy233":1,
 "zimuzu":1,
