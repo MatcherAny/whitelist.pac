@@ -243,6 +243,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"irs03":1,
+"socolar":1,
+"exlibrisgroup":1,
 "kcdnvip":1,
 "dwion":1,
 "wscdns":1,
