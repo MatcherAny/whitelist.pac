@@ -249,6 +249,7 @@ var white_domains = {
 "conviva":1,
 "byteimg":1,
 "ixigua":1,
+"qiecdn":1,
 "byteimg":1,
 "ixigua":1,
 "scoregg":1,
