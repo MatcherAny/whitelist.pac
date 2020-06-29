@@ -243,6 +243,12 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"kcdnvip":1,
+"dwion":1,
+"wscdns":1,
+"conviva":1,
+"byteimg":1,
+"ixigua":1,
 "byteimg":1,
 "ixigua":1,
 "scoregg":1,
