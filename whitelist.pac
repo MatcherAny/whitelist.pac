@@ -243,6 +243,13 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"scoregg":1,
+"vhallyun":1,
+"vhall":1,
+"53bat":1,
+"xycdn":1,
+"famulei":1,
+"xycloud":1,
 "gifshow":1,
 "ksapisrv":1,
 "miaopai":1,
