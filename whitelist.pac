@@ -243,6 +243,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"byteimg":1,
+"ixigua":1,
 "scoregg":1,
 "vhallyun":1,
 "vhall":1,
