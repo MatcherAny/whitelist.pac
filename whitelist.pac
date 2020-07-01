@@ -5,6 +5,7 @@ var ip_proxy = "DIRECT;";
 
 var white_domains = {
 "asia":{
+"optimix":1,
 "moecloud":1
 },"lol":{
 "bilibili":1
@@ -243,6 +244,15 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"haosou":1,
+"fugetech":1,
+"afanti100":1,
+"weibocdn":1,
+"smtcdns":1,
+"fancyapi":1,
+"cpcwe":1,
+"runoob":1,
+"bigcat":1,
 "irs03":1,
 "socolar":1,
 "exlibrisgroup":1,
