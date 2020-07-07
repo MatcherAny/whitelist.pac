@@ -246,6 +246,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"jdpay":1,
 "dachuantuan":1,
 "adesk":1,
 "yuanmazg":1,
