@@ -3157,6 +3157,7 @@ var white_domains = {
 "coop100":1,
 "coopb2b":1,
 "cosco":1,
+"cowtransfer":1,
 "cozyee":1,
 "cp2y":1,
 "cpdyj":1,
