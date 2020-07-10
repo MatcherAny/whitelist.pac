@@ -246,6 +246,16 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"gushiciju":1,
+"tingshubao":1,
+"xyxswang":1,
+"ting56":1,
+"tingchina":1,
+"paihang360":1,
+"zuihaodaxue":1,
+"ymatou":1,
+"appvipshop":1,
+"liangfm":1,
 "jdpay":1,
 "dachuantuan":1,
 "adesk":1,
@@ -8772,6 +8782,7 @@ var white_domains = {
 "iyy":1,
 "yixin":1
 },"info":{
+"wting":1,
 "xposed":1,
 "gmold":1,
 "iyaya":1,
@@ -8795,6 +8806,7 @@ var white_domains = {
 "qzone":1,
 "ulinix":1
 },"me":{
+"lrts":1,
 "ele":1,
 "diaodiaode":1,
 "qbox":1,
@@ -8810,6 +8822,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"cnmstl":1,
 "ltimg":1,
 "doutugou":1,
 "yfp2p":1,
