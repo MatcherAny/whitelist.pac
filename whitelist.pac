@@ -246,6 +246,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"jiasule":1,
+"mi-img":1,
 "gushiciju":1,
 "tingshubao":1,
 "xyxswang":1,
