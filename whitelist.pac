@@ -1,9 +1,13 @@
-var wall_proxy = "SOCKS5 127.0.0.1:1080;";
+var wall_proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
+"live":{
+"zhuafan":1,
+"justfun":1
+},
 "asia":{
 "optimix":1,
 "moecloud":1
@@ -246,6 +250,16 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"xiaomiyoupin":1,
+"longzhu":1,
+"momocdn":1,
+"immomo":1,
+"ourdvsss":1,
+"lotpc":1,
+"365pcbuy":1,
+"xinhuaapp":1,
+"zhongguowangshi":1,
+"ppsport":1,
 "jiasule":1,
 "mi-img":1,
 "gushiciju":1,
@@ -8824,6 +8838,9 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"haplat":1,
+"plures":1,
+"smtcdns":1,
 "cnmstl":1,
 "ltimg":1,
 "doutugou":1,
@@ -10100,6 +10117,8 @@ var white_domains = {
 },"tm":{
 "stone":1
 },"tv":{
+"zhibo":1,
+"zhangyu":1,
 "zhanqi":1,
 "xiaoka":1,
 "fun":1,
