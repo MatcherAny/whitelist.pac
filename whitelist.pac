@@ -250,6 +250,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"shiyanlou":1,
+"meiqiausercontent":1,
+"alibaba-inc":1,
 "xiaomiyoupin":1,
 "longzhu":1,
 "momocdn":1,
@@ -8838,6 +8841,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"aliyunedu":1,
 "haplat":1,
 "plures":1,
 "smtcdns":1,
