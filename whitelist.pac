@@ -250,6 +250,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"giocdn":1,
+"youzanyun":1,
+"youzan":1,
 "shiyanlou":1,
 "meiqiausercontent":1,
 "alibaba-inc":1,
