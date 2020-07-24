@@ -74,6 +74,7 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"haiduomi":1,
 "dysfz":1,
 "jianbihua":1,
 "xcmh":1,
@@ -250,6 +251,16 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"kk2w1":1,
+"adcmove":1,
+"wukongshipin":1,
+"juhuitv":1,
+"feifeizuida":1,
+"video-yongjiu":1,
+"135-cdn":1,
+"tv8box":1,
+"nfmovies":1,
+"dianyinggou":1,
 "giocdn":1,
 "youzanyun":1,
 "youzan":1,
@@ -8829,6 +8840,7 @@ var white_domains = {
 "qzone":1,
 "ulinix":1
 },"me":{
+"ddrk":1,
 "lrts":1,
 "ele":1,
 "diaodiaode":1,
@@ -8845,6 +8857,10 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"xiaomi":1,
+"ck180":1,
+"k1080":1,
+"21629":1,
 "aliyunedu":1,
 "haplat":1,
 "plures":1,
@@ -10125,6 +10141,8 @@ var white_domains = {
 },"tm":{
 "stone":1
 },"tv":{
+"pianku":1,
+"460":1,
 "zhibo":1,
 "zhangyu":1,
 "zhanqi":1,
