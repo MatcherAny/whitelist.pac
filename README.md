@@ -6,7 +6,7 @@
 地址:[https://api.icyuyan.net/pac/whitelist.pac](https://api.icyuyan.net/pac/whitelist.pac)
 
 # 代理设置方法
->确认本机的代理软件的端口是1080
+>确认本机的代理软件的SOCKS端口是1080或者10800
 ## 1 Chrome
 ### 1.1 安装插件SwitchyOmega
 安装地址:https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
