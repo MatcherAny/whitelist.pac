@@ -251,6 +251,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"hacpai":1,
 "kk2w1":1,
 "adcmove":1,
 "wukongshipin":1,
@@ -9832,6 +9833,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"b3log":1,
 "moegirl":1,
 "pigai":1,
 "ziyuanmao":1,
