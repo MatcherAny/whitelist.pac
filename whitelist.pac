@@ -8858,6 +8858,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"ipip":1,
 "xiaomi":1,
 "ck180":1,
 "k1080":1,
