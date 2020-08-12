@@ -252,6 +252,7 @@ var white_domains = {
 "ychdzx":1
 },"com":{
 "dugulingping":1,
+"hacpai":1,
 "kk2w1":1,
 "adcmove":1,
 "wukongshipin":1,
@@ -8861,6 +8862,7 @@ var white_domains = {
 "icyuyan":1,
 "bitbear":1,
 "rkidc":1,
+"ipip":1,
 "xiaomi":1,
 "ck180":1,
 "k1080":1,
@@ -9837,6 +9839,7 @@ var white_domains = {
 "zzrc":1
 },"org":{
 "03k":1,
+"b3log":1,
 "moegirl":1,
 "pigai":1,
 "ziyuanmao":1,
