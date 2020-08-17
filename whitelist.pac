@@ -2852,6 +2852,7 @@ var white_domains = {
 "chinaceot":1,
 "chinachemnet":1,
 "chinachugui":1,
+"chinachangfang":1,
 "chinacnr":1,
 "chinacoal":1,
 "chinacoop":1,
