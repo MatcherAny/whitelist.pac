@@ -10067,6 +10067,7 @@ var white_domains = {
 "sxly":1,
 "szfw":1,
 "taiwandao":1,
+"taobao":1,
 "tielu":1,
 "trustutn":1,
 "ttedu":1,
