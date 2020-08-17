@@ -251,6 +251,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"ljia":1,
 "dugulingping":1,
 "hacpai":1,
 "kk2w1":1,
@@ -2852,6 +2853,7 @@ var white_domains = {
 "chinaceot":1,
 "chinachemnet":1,
 "chinachugui":1,
+"chinachangfang":1,
 "chinacnr":1,
 "chinacoal":1,
 "chinacoop":1,
@@ -8605,6 +8607,8 @@ var white_domains = {
 "zhuaxia":1,
 "zhubaijia":1,
 "zhubajie":1,
+"zhuge":1,
+"zhugefang":1,
 "zhuicun":1,
 "zhujia360":1,
 "zhujiangrc":1,
