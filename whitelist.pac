@@ -6415,6 +6415,7 @@ var white_domains = {
 "qnssl":1,
 "qiniucdn":1,
 "qiniudn":1,
+"qiniup":1,
 "qinqiner":1,
 "qiongzhourc":1,
 "qipaoxian":1,
