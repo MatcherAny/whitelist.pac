@@ -251,6 +251,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"sheencity":1,
 "ljia":1,
 "dugulingping":1,
 "hacpai":1,
@@ -10215,6 +10216,8 @@ var white_domains = {
 },"world":{
 "tis":1,
 "xplus":1
+},"cool":{
+"kaikai":1
 },"us":{
 "pangu":1
 },"ws":{
