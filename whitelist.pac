@@ -251,6 +251,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"bibgame":1,
+"jsjinfu":1,
+"xiatou":1,
 "hacpai":1,
 "kk2w1":1,
 "adcmove":1,
@@ -10146,6 +10149,7 @@ var white_domains = {
 },"tm":{
 "stone":1
 },"tv":{
+"agefans":1,
 "pianku":1,
 "460":1,
 "zhibo":1,
