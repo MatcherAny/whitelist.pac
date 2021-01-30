@@ -251,15 +251,12 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
-<<<<<<< HEAD
 "sheencity":1,
 "ljia":1,
 "dugulingping":1,
-=======
 "bibgame":1,
 "jsjinfu":1,
 "xiatou":1,
->>>>>>> updata/master
 "hacpai":1,
 "kk2w1":1,
 "adcmove":1,
