@@ -10230,8 +10230,12 @@ var white_domains = {
 },"world":{
 "tis":1,
 "xplus":1
+},"plus":{
+"hanpi":1,
+},"pro":{
+"hanpi":1,
 },"cool":{
-"kaikai":1
+"kaikai":1,
 },"us":{
 "pangu":1
 },"ws":{
