@@ -251,6 +251,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"dnsv1":1,
+"mamicode":1,
+"cnplugins":1,
+"topthink":1,
 "boe":1,
 "ehualu":1,
 "huaweiuniversity":1,
