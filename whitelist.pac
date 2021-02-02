@@ -251,6 +251,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"kuangstudy":1,
+"hhtjim":1,
+"bestcherish":1,
+"":1,
 "dnsv1":1,
 "mamicode":1,
 "cnplugins":1,
@@ -8859,6 +8863,7 @@ var white_domains = {
 "qzone":1,
 "ulinix":1
 },"me":{
+"luojia":1,
 "ddrk":1,
 "lrts":1,
 "ele":1,
@@ -10166,6 +10171,10 @@ var white_domains = {
 "wangxiao":1
 },"tm":{
 "stone":1
+},"su":{
+"qing":1,
+},"in":{
+"lntu":1,
 },"tv":{
 "agefans":1,
 "pianku":1,
