@@ -251,7 +251,6 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
-"hdslb":1,
 "mihoyo":1,
 "chiphell":1,
 "bibgame":1,
