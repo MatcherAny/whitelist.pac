@@ -20,6 +20,7 @@ var white_domains = {
 },"wiki":{
 "huiji":1
 },"one":{
+"lv5":1,
 "zym":1
 },"download":{
 "sudamod":1,
@@ -251,6 +252,13 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"radius-america":1,
+"tencent-cloud":1,
+"movparse":1,
+"shankuwang":1,
+"cdn29-okzy":1,
+"hostyun":1,
+"szbdyd":1,
 "bibgame":1,
 "jsjinfu":1,
 "xiatou":1,
@@ -542,7 +550,6 @@ var white_domains = {
 "chimeiju":1,
 "meijubie":1,
 "koudaitong":1,
-"gravatar":1,
 "guoziweb":1,
 "meikew":1,
 "kyad88":1,
@@ -8862,6 +8869,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"agefans":1,
 "ipip":1,
 "xiaomi":1,
 "ck180":1,
