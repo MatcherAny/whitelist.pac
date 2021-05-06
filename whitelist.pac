@@ -252,6 +252,9 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"zhuge":1,
+"chinachangfang":1,
+"ljia":1,
 "mihoyo":1,
 "chiphell":1,
 "radius-america":1,
