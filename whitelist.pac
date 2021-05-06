@@ -550,6 +550,7 @@ var white_domains = {
 "chimeiju":1,
 "meijubie":1,
 "koudaitong":1,
+"gravatar":1,
 "guoziweb":1,
 "meikew":1,
 "kyad88":1,
