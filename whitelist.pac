@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;";
+var wall_proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;SOCKS5 127.0.0.1:7891;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
@@ -252,6 +252,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"mihoyo":1,
+"chiphell":1,
 "radius-america":1,
 "tencent-cloud":1,
 "movparse":1,
@@ -550,7 +552,6 @@ var white_domains = {
 "chimeiju":1,
 "meijubie":1,
 "koudaitong":1,
-"gravatar":1,
 "guoziweb":1,
 "meikew":1,
 "kyad88":1,
