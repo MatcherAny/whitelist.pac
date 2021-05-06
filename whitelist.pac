@@ -252,6 +252,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"mihoyo":1,
+"chiphell":1,
 "radius-america":1,
 "tencent-cloud":1,
 "movparse":1,
