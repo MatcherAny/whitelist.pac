@@ -253,10 +253,16 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"nowcoder":1,
+"cn.bing":1,
+"zhipin":1,
+"bosszhipin":1,
+"shixiseng":1,
+"xiaoyuanzhao":1,
+"landray":1,
 "kuangstudy":1,
 "hhtjim":1,
 "bestcherish":1,
-"":1,
 "dnsv1":1,
 "mamicode":1,
 "cnplugins":1,
@@ -9877,6 +9883,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"lanqiao":1,
 "03k":1,
 "b3log":1,
 "moegirl":1,
