@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;SOCKS5 127.0.0.1:7891;";
+var wall_proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;SOCKS5 127.0.0.1:7890;SOCKS5 127.0.0.1:7891;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
@@ -252,6 +252,27 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"nowcoder":1,
+"cn.bing":1,
+"zhipin":1,
+"bosszhipin":1,
+"shixiseng":1,
+"xiaoyuanzhao":1,
+"landray":1,
+"kuangstudy":1,
+"hhtjim":1,
+"bestcherish":1,
+"dnsv1":1,
+"mamicode":1,
+"cnplugins":1,
+"topthink":1,
+"boe":1,
+"ehualu":1,
+"huaweiuniversity":1,
+"saikr":1,
+"sheencity":1,
+"ljia":1,
+"dugulingping":1,
 "mapletimely":1,
 "gtop100":1,
 "zhuge":1,
@@ -2868,6 +2889,7 @@ var white_domains = {
 "chinaceot":1,
 "chinachemnet":1,
 "chinachugui":1,
+"chinachangfang":1,
 "chinacnr":1,
 "chinacoal":1,
 "chinacoop":1,
@@ -8623,6 +8645,8 @@ var white_domains = {
 "zhuaxia":1,
 "zhubaijia":1,
 "zhubajie":1,
+"zhuge":1,
+"zhugefang":1,
 "zhuicun":1,
 "zhujia360":1,
 "zhujiangrc":1,
@@ -8860,6 +8884,7 @@ var white_domains = {
 "qzone":1,
 "ulinix":1
 },"me":{
+"luojia":1,
 "ddrk":1,
 "lrts":1,
 "ele":1,
@@ -8877,6 +8902,9 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"icyuyan":1,
+"bitbear":1,
+"rkidc":1,
 "agefans":1,
 "ipip":1,
 "xiaomi":1,
@@ -9854,6 +9882,8 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"lanqiao":1,
+"03k":1,
 "b3log":1,
 "moegirl":1,
 "pigai":1,
@@ -10165,6 +10195,10 @@ var white_domains = {
 "wangxiao":1
 },"tm":{
 "stone":1
+},"su":{
+"qing":1,
+},"in":{
+"lntu":1,
 },"tv":{
 "agefans":1,
 "pianku":1,
@@ -10226,6 +10260,15 @@ var white_domains = {
 },"tw":{
 "hexun.com":1,
 "taiwandao":1
+},"world":{
+"tis":1,
+"xplus":1
+},"plus":{
+"hanpi":1,
+},"pro":{
+"hanpi":1,
+},"cool":{
+"kaikai":1,
 },"us":{
 "pangu":1
 },"ws":{
