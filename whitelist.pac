@@ -75,6 +75,8 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"dious":1,
+"hyzm":1,
 "haiduomi":1,
 "dysfz":1,
 "jianbihua":1,
@@ -251,6 +253,13 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"tkzyapi":1,
+"bytecdntp":1,
+"xarxrljt":1,
+"toutiaoimg":1,
+"qhres":1,
+"hdslb":1,
+"ting55":1,
 "nowcoder":1,
 "cn.bing":1,
 "zhipin":1,
@@ -8858,6 +8867,7 @@ var white_domains = {
 "iyy":1,
 "yixin":1
 },"info":{
+"miloli":1,
 "wting":1,
 "xposed":1,
 "gmold":1,
@@ -9880,6 +9890,7 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"agefans":1,
 "lanqiao":1,
 "03k":1,
 "b3log":1,
@@ -10198,6 +10209,7 @@ var white_domains = {
 },"in":{
 "lntu":1,
 },"tv":{
+"aidi":1,
 "agefans":1,
 "pianku":1,
 "460":1,
@@ -10273,6 +10285,8 @@ var white_domains = {
 "0798":1
 },"xn--fiqs8s":{
 "":1
+},"nl":{
+"yhdm":1,
 }
 };
 
