@@ -5,10 +5,10 @@ var ip_proxy = "DIRECT;";
 
 var white_domains = {
 "live":{
+"lanjing":1,
 "zhuafan":1,
 "justfun":1
-},
-"asia":{
+},"asia":{
 "optimix":1,
 "moecloud":1
 },"lol":{
@@ -253,6 +253,14 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"v-56":1,
+"reyun":1,
+"douyinpic":1,
+"douyincdn":1,
+"bytetos":1,
+"bytegoofy":1,
+"kwimgs":1,
+"8686c":1,
 "bdxiguaimg":1,
 "bdxiguastatic":1,
 "huoshanstatic":1,
