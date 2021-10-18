@@ -1,14 +1,14 @@
-var wall_proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;";
+var wall_proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:10800;SOCKS5 127.0.0.1:7890;SOCKS5 127.0.0.1:7891;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
 "live":{
+"lanjing":1,
 "zhuafan":1,
 "justfun":1
-},
-"asia":{
+},"asia":{
 "optimix":1,
 "moecloud":1
 },"lol":{
@@ -20,6 +20,7 @@ var white_domains = {
 },"wiki":{
 "huiji":1
 },"one":{
+"lv5":1,
 "zym":1
 },"download":{
 "sudamod":1,
@@ -74,6 +75,8 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"dious":1,
+"hyzm":1,
 "haiduomi":1,
 "dysfz":1,
 "jianbihua":1,
@@ -240,7 +243,6 @@ var white_domains = {
 "hebei":1,
 "yinshua":1
 },"co":{
-"v2ex":1,
 "meijubie":1,
 "425300":1,
 "banzhu":1,
@@ -251,6 +253,59 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"v-56":1,
+"reyun":1,
+"douyinpic":1,
+"douyincdn":1,
+"bytetos":1,
+"bytegoofy":1,
+"kwimgs":1,
+"8686c":1,
+"bdxiguaimg":1,
+"bdxiguastatic":1,
+"huoshanstatic":1,
+"tkzyapi":1,
+"bytecdntp":1,
+"xarxrljt":1,
+"toutiaoimg":1,
+"qhres":1,
+"hdslb":1,
+"ting55":1,
+"nowcoder":1,
+"cn.bing":1,
+"zhipin":1,
+"bosszhipin":1,
+"shixiseng":1,
+"xiaoyuanzhao":1,
+"landray":1,
+"kuangstudy":1,
+"hhtjim":1,
+"bestcherish":1,
+"dnsv1":1,
+"mamicode":1,
+"cnplugins":1,
+"topthink":1,
+"boe":1,
+"ehualu":1,
+"huaweiuniversity":1,
+"saikr":1,
+"sheencity":1,
+"ljia":1,
+"dugulingping":1,
+"mapletimely":1,
+"gtop100":1,
+"zhuge":1,
+"chinachangfang":1,
+"ljia":1,
+"mihoyo":1,
+"chiphell":1,
+"radius-america":1,
+"tencent-cloud":1,
+"movparse":1,
+"shankuwang":1,
+"cdn29-okzy":1,
+"hostyun":1,
+"szbdyd":1,
 "bibgame":1,
 "jsjinfu":1,
 "xiatou":1,
@@ -542,7 +597,6 @@ var white_domains = {
 "chimeiju":1,
 "meijubie":1,
 "koudaitong":1,
-"gravatar":1,
 "guoziweb":1,
 "meikew":1,
 "kyad88":1,
@@ -2854,6 +2908,7 @@ var white_domains = {
 "chinaceot":1,
 "chinachemnet":1,
 "chinachugui":1,
+"chinachangfang":1,
 "chinacnr":1,
 "chinacoal":1,
 "chinacoop":1,
@@ -7241,6 +7296,7 @@ var white_domains = {
 "tiantian":1,
 "tianxia70":1,
 "tianyablog":1,
+"tianyancha":1,
 "tianyaui":1,
 "tianyuimg":1,
 "tiaohao":1,
@@ -7488,7 +7544,6 @@ var white_domains = {
 "uzai":1,
 "uzaicdn":1,
 "uzzf":1,
-"v2ex":1,
 "v312":1,
 "v3gp":1,
 "value500":1,
@@ -8608,6 +8663,8 @@ var white_domains = {
 "zhuaxia":1,
 "zhubaijia":1,
 "zhubajie":1,
+"zhuge":1,
+"zhugefang":1,
 "zhuicun":1,
 "zhujia360":1,
 "zhujiangrc":1,
@@ -8821,6 +8878,7 @@ var white_domains = {
 "iyy":1,
 "yixin":1
 },"info":{
+"miloli":1,
 "wting":1,
 "xposed":1,
 "gmold":1,
@@ -8845,6 +8903,7 @@ var white_domains = {
 "qzone":1,
 "ulinix":1
 },"me":{
+"luojia":1,
 "ddrk":1,
 "lrts":1,
 "ele":1,
@@ -8862,6 +8921,10 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"icyuyan":1,
+"bitbear":1,
+"rkidc":1,
+"agefans":1,
 "ipip":1,
 "xiaomi":1,
 "ck180":1,
@@ -9838,6 +9901,9 @@ var white_domains = {
 "zzph":1,
 "zzrc":1
 },"org":{
+"agefans":1,
+"lanqiao":1,
+"03k":1,
 "b3log":1,
 "moegirl":1,
 "pigai":1,
@@ -9937,6 +10003,7 @@ var white_domains = {
 "cnsb":1,
 "cocos2d-x":1,
 "cottonchina":1,
+"coursera":1,
 "cq315":1,
 "cqgh":1,
 "cqzx":1,
@@ -10148,7 +10215,12 @@ var white_domains = {
 "wangxiao":1
 },"tm":{
 "stone":1
+},"su":{
+"qing":1,
+},"in":{
+"lntu":1,
 },"tv":{
+"aidi":1,
 "agefans":1,
 "pianku":1,
 "460":1,
@@ -10209,12 +10281,23 @@ var white_domains = {
 },"tw":{
 "hexun.com":1,
 "taiwandao":1
+},"world":{
+"tis":1,
+"xplus":1
+},"plus":{
+"hanpi":1,
+},"pro":{
+"hanpi":1,
+},"cool":{
+"kaikai":1,
 },"us":{
 "pangu":1
 },"ws":{
 "0798":1
 },"xn--fiqs8s":{
 "":1
+},"nl":{
+"yhdm":1,
 }
 };
 
