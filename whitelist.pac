@@ -253,6 +253,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"feishucdn":1,
 "v-56":1,
 "reyun":1,
 "douyinpic":1,
