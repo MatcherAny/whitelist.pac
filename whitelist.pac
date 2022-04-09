@@ -253,6 +253,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"ysepan":1,
 "v-56":1,
 "reyun":1,
 "douyinpic":1,
@@ -10288,6 +10289,7 @@ var white_domains = {
 "hanpi":1,
 },"pro":{
 "hanpi":1,
+"laixi":1,
 },"cool":{
 "kaikai":1,
 },"us":{
