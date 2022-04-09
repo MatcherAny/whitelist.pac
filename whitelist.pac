@@ -254,6 +254,7 @@ var white_domains = {
 "ychdzx":1
 },"com":{
 "ysepan":1,
+"yinxiang":1,
 "v-56":1,
 "reyun":1,
 "douyinpic":1,
