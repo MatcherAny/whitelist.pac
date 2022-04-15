@@ -8931,6 +8931,7 @@ var white_domains = {
 "xiaomi":1,
 "ck180":1,
 "k1080":1,
+"cn-ki":1,
 "21629":1,
 "aliyunedu":1,
 "haplat":1,
