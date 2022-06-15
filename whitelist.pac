@@ -4,6 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
+"club":{
+"xhup"
+},
 "live":{
 "lanjing":1,
 "zhuafan":1,
