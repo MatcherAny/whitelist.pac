@@ -256,6 +256,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"feishucdn":1,
 "ysepan":1,
 "yinxiang":1,
 "v-56":1,
