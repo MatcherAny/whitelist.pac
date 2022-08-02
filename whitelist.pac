@@ -4,6 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
+"club":{
+"xhup":1
+},
 "live":{
 "lanjing":1,
 "zhuafan":1,
@@ -253,6 +256,8 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"ysepan":1,
+"yinxiang":1,
 "v-56":1,
 "reyun":1,
 "douyinpic":1,
@@ -8929,6 +8934,7 @@ var white_domains = {
 "xiaomi":1,
 "ck180":1,
 "k1080":1,
+"cn-ki":1,
 "21629":1,
 "aliyunedu":1,
 "haplat":1,
@@ -10288,6 +10294,7 @@ var white_domains = {
 "hanpi":1,
 },"pro":{
 "hanpi":1,
+"laixi":1,
 },"cool":{
 "kaikai":1,
 },"us":{
