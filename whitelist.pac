@@ -258,6 +258,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"aliyundrive":1,
 "lanzoug":1,
 "lanzoui":1,
 "xdtool":1,
@@ -8942,6 +8943,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"aliyundrive":1,
 "onedns":1,
 "icyuyan":1,
 "bitbear":1,
