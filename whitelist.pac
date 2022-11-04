@@ -43,6 +43,7 @@ var white_domains = {
 "xitu":1,
 "jianshu":1,
 },"top":{
+"kook":1,
 "wjx":1,
 "1993s":1,
 "kdy666":1,
@@ -78,6 +79,7 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"2oc":1,
 "dious":1,
 "hyzm":1,
 "haiduomi":1,
@@ -256,6 +258,19 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"lanzoug":1,
+"lanzoui":1,
+"xdtool":1,
+"ffmomola":1,
+"weiyun":1,
+"dazidazi":1,
+"yiyeting":1,
+"ting22":1,
+"himerico":1,
+"omo-pay":1,
+"mydnns":1,
+"hhnykg":1,
+"ting74":1,
 "feishucdn":1,
 "ysepan":1,
 "yinxiang":1,
@@ -8927,6 +8942,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"onedns":1,
 "icyuyan":1,
 "bitbear":1,
 "rkidc":1,
@@ -10227,6 +10243,7 @@ var white_domains = {
 },"in":{
 "lntu":1,
 },"tv":{
+"omofun":1,
 "aidi":1,
 "agefans":1,
 "pianku":1,
