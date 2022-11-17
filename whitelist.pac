@@ -79,6 +79,7 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"tingbook":1,
 "2oc":1,
 "dious":1,
 "hyzm":1,
@@ -258,6 +259,12 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"aiqingyu1314":1,
+"5yju":1,
+"52netflix":1,
+"nfyingshi":1,
+"shanshanku":1,
+"tingzh":1,
 "aliyundrive":1,
 "lanzoug":1,
 "lanzoui":1,
@@ -8943,6 +8950,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"agemys":1,
 "aliyundrive":1,
 "onedns":1,
 "icyuyan":1,
